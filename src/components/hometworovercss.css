@@ -1,0 +1,16 @@
+.rover{
+    width: 100%;
+
+}
+.rover_image{
+    width: 50%;
+}
+.rover_content{
+    width: 60%;
+}
+.rover_content h2{
+    color: brown;
+}
+.rover_image img{
+    width: 100%;
+}
